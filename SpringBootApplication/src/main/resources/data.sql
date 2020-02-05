@@ -1,0 +1,1 @@
+insert into USER_LOGIN_DETAILS values ('1',"hari","hari");
